@@ -1,7 +1,7 @@
 name: show_confirm_modal
-description: A new Flutter plugin project.
-version: 0.0.1
-homepage:
+description: Allows to display a simple confirmation modal with callback
+version: 1.0.0
+homepage: https://github.com/bynicodevelop/show_confirm_modal
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
