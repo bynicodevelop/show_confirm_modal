@@ -1,6 +1,6 @@
 name: show_confirm_modal
 description: Allows to display a simple confirmation modal with callback
-version: 1.0.0
+version: 1.0.2
 homepage: https://github.com/bynicodevelop/show_confirm_modal
 
 environment:
