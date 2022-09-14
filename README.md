@@ -42,4 +42,6 @@ showConfirm(
     onConfirm: () => print("Confirm"),
 );
 ```
+## Rendering
 
+<img src="https://raw.githubusercontent.com/bynicodevelop/show_confirm_modal/main/example/assets/logo.png" width="320px" />
